@@ -22,9 +22,9 @@ const Main = () => {
 
   useEffect(() => {
     const fetchDataFromApi = async () => {
-      const API_URL = "http://localhost:4000/api/get-data";
+     
       try {
-        const response = await axios.get("http://localhost:4000/api/get-data");
+        const response = await axios.get("https://data-visualization-dashboard-fer0.onrender.com/api/get-data");
         setData(response.data);
       
       } catch (error) {
