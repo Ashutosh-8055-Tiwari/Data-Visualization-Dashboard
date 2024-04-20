@@ -1,2 +1,1 @@
-# Dashboard | BlackCoffer Data Visualization assignment
-
+A data visualization dashboard built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Chart.js presents a dynamic platform for analyzing and presenting data insights. Leveraging Chart.js, a JavaScript library for creating responsive and interactive charts, this dashboard visualizes random data in various formats such as line charts, bar charts, pie charts, etc. The MERN stack facilitates seamless integration between the front-end and back-end, ensuring efficient data retrieval, manipulation, and presentation. Users can interact with the dashboard to explore trends, patterns, and correlations within the random dataset, offering a user-friendly interface for data-driven decision-making.
